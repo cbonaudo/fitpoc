@@ -855,6 +855,11 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
+"@ovalmoney/react-native-fitness@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@ovalmoney/react-native-fitness/-/react-native-fitness-0.3.0.tgz#3f250c6dfb3da30180a75f6bb820966118b22389"
+  integrity sha512-D5z6dmtPGiU5V7g1Ya7z83/Bx+6SHK0EFeUKh/e3vM1RQQ27Hmdx5CbUb9BeD5IyG+04osjGHLwJ8m2Dw2tOBA==
+
 "@react-native-community/cli-debugger-ui@^4.9.0":
   version "4.9.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-debugger-ui/-/cli-debugger-ui-4.9.0.tgz#4177764ba69243c97aa26829d59d9501acb2bd71"
@@ -6233,9 +6238,9 @@ xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yallist@^2.1.2:
   version "2.1.2"
