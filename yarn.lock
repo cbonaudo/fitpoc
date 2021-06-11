@@ -855,6 +855,11 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
+"@ovalmoney/react-native-fitness@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@ovalmoney/react-native-fitness/-/react-native-fitness-0.3.0.tgz#3f250c6dfb3da30180a75f6bb820966118b22389"
+  integrity sha512-D5z6dmtPGiU5V7g1Ya7z83/Bx+6SHK0EFeUKh/e3vM1RQQ27Hmdx5CbUb9BeD5IyG+04osjGHLwJ8m2Dw2tOBA==
+
 "@react-native-community/cli-debugger-ui@^4.9.0":
   version "4.9.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-debugger-ui/-/cli-debugger-ui-4.9.0.tgz#4177764ba69243c97aa26829d59d9501acb2bd71"
@@ -2808,9 +2813,9 @@ getpass@^0.1.1:
     assert-plus "^1.0.0"
 
 glob-parent@^5.0.0:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.1.tgz#b6c1ef417c4e5663ea498f1c45afac6916bbc229"
-  integrity sha512-FnI+VGOpnlGHWZxthPGR+QhR78fuiK0sNLkHQv+bL9fQi57lNNdquIbna/WrfROrolq8GK5Ek6BiMwqL/voRYQ==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
